@@ -17,13 +17,13 @@ window.onload = function() {
   
     var messages = [
       'Hi there 👋🏻',
-      'I\'m Sam, a Recruitment Consultant from Positive Thinking Company 🙋‍♀️',
-      'I\'m looking for the right talents for our product partners forming Tech hubs in Vietnam',
-      'TripAdvisor: <a target="_blank" href="https://bit.ly/3kbUFXg">Medior/Senior/Lead Fullstack Java</a>',
-      'Instaclustr: <a target="_blank" href="https://bit.ly/2Tb7SEE">Senior/Lead Java</a>',
-      'MessageMedia: <a target="_blank" href="https://bit.ly/3hziciS">Senior ReactJS</a>',
-      'CreditorWatch: <a target="_blank" href="https://bit.ly/3ediHgu">Senior/Lead PHP</a>',
-      'Please contact me if you require direct support 👉🏻 <a href="skype:live:.cid.3574192feff64ebf?chat">Chat With Me On Skype</a>',
+      'This is Suong fiance 🙋‍♀️',
+      'I love Suong so much',
+      'This is Test 1',
+      'This is Test 2',
+      'This is Test 3',
+      'This is Test 4',
+      'Please contact me if you require direct support 👉🏻 <a href="live:d9339f3c01d661c2">Chat With Me On Skype</a>',
       'Thanks'
     ]
   
